@@ -3,5 +3,5 @@ paginate: 1
 markdown: rdiscount
 pygments: true
 permalink: /blog/:title
-extensions: [smart]
-name: "summer-koko"
+rdiscount
+  extensions: [smart]
