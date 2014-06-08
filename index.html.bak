@@ -1,6 +1,6 @@
 ---
 layout: layout
-title: Summer Koko
+title: jamesmoss.co.uk
 ---
 
 {% for post in paginator.posts %}
